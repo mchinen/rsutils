@@ -8,7 +8,7 @@
     http://roughsoft.com
 
     Copyright 2012 Roughsoft LLC
-    License: GPL or Commercial License via roughsoft
+    License: MIT
 
 ****************************************************************/
 
